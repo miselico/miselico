@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Michael Cochez, assitant professor at the Vrije Universiteit Amsterdam. 
+My work is around Knowledge Graphs and Machine learning. 
+
 <!--
 **miselico/miselico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
