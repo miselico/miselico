@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Michael Cochez, assitant professor at the Vrije Universiteit Amsterdam. 
+I am Michael Cochez, assistant professor at the Vrije Universiteit Amsterdam. 
 My work is around Knowledge Graphs and Machine learning. 
 
 <!--
