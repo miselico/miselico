@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am Michael Cochez, assistant professor at the Vrije Universiteit Amsterdam. 
+I am Michael Cochez, Princpal Investigator at the ELLIS Institute Finland and Professor at Åbo Akademi University.
+I used to be an assistant professor at the Vrije Universiteit Amsterdam. 
 My work is around Knowledge Graphs and Machine learning. 
 
 <!--
